@@ -1,14 +1,25 @@
 /*CSS Style Document*/
 
+
 p{
 	color:red;
 }
+
+p.first-paragraph{color: blue;}
+
+.byline {text-transform:uppercase;
+		font-size:12px;
+ 								}
 
 img{
 	height:200px;
 	width: 300px;
 }
 
+#main-photo {height:500px;
+			width:700px;	}
+
+.pink-list {background-color:pink;}
 ul{
 	list-style-type: square;
 }
